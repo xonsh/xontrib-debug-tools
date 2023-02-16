@@ -21,7 +21,7 @@ xpip install xontrib-debug-tools
 The package contains:
 
 * `pdb` - Simple built-in debugger. Runs pdb on reception of [SIGUSR1 signal](https://www.gnu.org/software/libc/manual/html_node/Miscellaneous-Signals.html).
-* `xog` - Simple command to establish and print temporary traceback log file.
+* `xog` - Simple command to establish and print [`$XONSH_TRACEBACK_LOGFILE`](https://xon.sh/envvars.html#xonsh-traceback-logfile).
 
 ### pdb
 
