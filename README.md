@@ -38,7 +38,7 @@ xog --help
 
 ### See also
 
-* [xunter](https://github.com/anki-code/xunter) - Profiling for the xonsh shell based on hunter.  
+* [xunter](https://github.com/anki-code/xunter) - Profiling for the xonsh shell based on hunter.
 
 ## Credits
 
