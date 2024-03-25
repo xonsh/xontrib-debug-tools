@@ -1,4 +1,5 @@
 """Simple built-in debugger. Runs pdb on reception of SIGUSR1 signal."""
+
 import signal
 
 from xonsh.built_ins import XonshSession
