@@ -36,9 +36,10 @@ xontrib load xog
 xog --help
 ```
 
-### See also
+## See also
 
 * [xunter](https://github.com/anki-code/xunter) - Profiling for the xonsh shell based on hunter.
+* [xonsh-developer-toolkit](https://github.com/anki-code/xonsh-developer-toolkit) - The xonsh developer toolkit contains all spectrum of instrument to develop xonsh shell. 
 
 ## Credits
 
